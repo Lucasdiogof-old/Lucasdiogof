@@ -7,8 +7,8 @@
 <br>
   
 <div align="center"> 
-  </a> 
-  <a href = "mailto:lucasdiogo1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-diogo-fran%C3%A7a-aa39b9174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:lucasdiogo1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-diogo-fran%C3%A7a-aa39b9174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">  
 </div>
-
+<br>
+<img align="right" src="https://komarev.com/ghpvc/?username=Lucasdiogof&color=green" alt="Lucasdiogof" /> 
